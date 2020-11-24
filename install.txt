@@ -1,0 +1,23 @@
+Instructions:
+Enter "make play" in the directory to demo the game
+
+Packages used:
+ANSITerminal
+yojson
+oUnit
+
+Packages used for extractor:
+lambdasoup
+atdgen
+
+Instructions to build and run extractor executable is in extractor/Readme.txt
+
+Makefile:
+make build
+make clean
+make docs
+make cleandocs
+make zip
+make test
+make play
+make rmzip

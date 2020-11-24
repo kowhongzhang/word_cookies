@@ -1,0 +1,6 @@
+We created a webscrapping tool to import levels from a website, 
+wordcookies.info . This gave us over 6000 html files, each one representing 1 
+level. We condensed several of theses into game.json files. We deleted 
+most of the html files but left several in case the graders would like to test
+the extractor features. This somewhat distorts our lines of code count, but can
+be ignored.
